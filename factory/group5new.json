@@ -1,0 +1,9 @@
+{
+	"name": "group5new",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af509d21-931a-4e02-bc00-7c7cfe28952d",
+		"tenantId": "d5b2ace1-c74f-47d2-9ed8-0bd2a5927fc5"
+	}
+}
