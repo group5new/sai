@@ -8,8 +8,17 @@
 		"AzureDatabricks1_accessToken": {
 			"value": ""
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
 		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
 			"value": "1219-073938-t3cpvjkq"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://group5storagenew.dfs.core.windows.net/"
 		}
 	}
 }
